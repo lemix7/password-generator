@@ -89,6 +89,7 @@ button{
     padding:  1rem;
     /* line-height: 2.5em; */
     position: relative;
+    background-color: white;
     cursor: pointer;
     overflow: hidden;
     border: 2px solid var(--primary-color);
@@ -129,7 +130,16 @@ button{
   }
   
   .generate:active:before {
+    
     background: var(--secondary-color);
     transition: background 0s;
   }
   
+
+  .pass-type{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    margin-bottom: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+  }
