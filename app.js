@@ -34,6 +34,8 @@ let array
 
 generateBtn.addEventListener('click', () =>{
 
+    copyText.textContent = ''
+
     if(upperCase.checked){
         generatePassword(upper)
     }
