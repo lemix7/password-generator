@@ -37,7 +37,7 @@ To run this web app locally, you'll need:
 
 2. Navigate to the project directory
 
-  cd password-generator
+  `cd password-generator`
 
 
 3. open the index.html file in your browser
