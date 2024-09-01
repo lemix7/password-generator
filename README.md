@@ -27,7 +27,7 @@ This Password Generator Web App allows users to create secure and customizable p
 - **JavaScript**: For handling the logic of password generation and user interaction.
 
 
-[Live Demo]([https://www.google.com](https://passwordgeneratorlemxi.netlify.app/))
+  [https://passwordgeneratorlemxi.netlify.app/]
 
 ## Getting Started
 
