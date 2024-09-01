@@ -28,6 +28,7 @@ This Password Generator Web App allows users to create secure and customizable p
 
 
   [https://passwordgeneratorlemxi.netlify.app/]
+  [Live Demo](https://passwordgeneratorlemxi.netlify.app/)
 
 ## Getting Started
 
